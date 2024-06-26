@@ -7,5 +7,8 @@ public class main{
         System.out.println("today we are going to start coding");
         poco p = new poco();
         p.prit();
+
+        samsung s = new samsung();
+        s.sam();
     }
 }
